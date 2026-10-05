@@ -1,4 +1,4 @@
-# Curious Learners — Full-Stack Developer Learning Platform & GitHub Curriculum Workspace
+# Curious Learners — Full-Stack Developer Learning Platform
 
 **Official Starter / Master Repository:**  
 [`https://github.com/curiouslearner35/frontend-bootcamp`](https://github.com/curiouslearner35/frontend-bootcamp)
@@ -110,4 +110,4 @@ npm start
 ---
 
 ## 📄 License
-MIT License. Curious Learners Academy.
+MIT License. Codazi LearningHub • Sister Concern of Codazi 
